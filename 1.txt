@@ -1,3 +1,4 @@
+||pdc.micloud.xiaomi.net^
 ||active.tc.skysrt.com^
 ||ad.3.cn^
 ||admaster.com.cn^
