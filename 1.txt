@@ -109,3 +109,6 @@
 @@||mihoyo.com^$important
 @@||123pan.com^$important
 @@||cdn.bcebos.com^$important
+@@||galleryapi.micloud.xiaomi.net^$important
+@@||cdn.ark.qq.com^$important
+@@||canvas.gdt.qq.com^$import
