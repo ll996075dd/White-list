@@ -113,3 +113,4 @@
 @@||cdn.ark.qq.com^$important
 @@||canvas.gdt.qq.com^$import
 @@||music.126.net^$import
+@@||biliapi.net^$import
