@@ -115,3 +115,4 @@
 @@||music.126.net^$import
 @@||biliapi.net^$import
 @@||aliyundrive.com^$import
+@@||alipan.com$important
