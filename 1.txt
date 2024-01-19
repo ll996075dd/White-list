@@ -32,3 +32,12 @@
 @@||biliapi.net^$import
 @@||aliyundrive.com^$import
 @@||alipan.com$important
+@@||cm.bilibili.com^$important
+@@||api.live.bilibili.com^$important
+@@||club.bilibili.com^$important
+@@||album.biliimg.com^$important
+@@||dns.google^$important
+@@||dns.ipv6dns.com^$important
+@@||doh.dns.sb^$important
+@@||dns-family.adguard.com^$important
+
