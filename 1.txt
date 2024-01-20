@@ -1,4 +1,5 @@
 #固定域名放行
+pss.alicdn.com
 detail.tmall.com
 #域名放行
 @@||bilivideo.com^$important
