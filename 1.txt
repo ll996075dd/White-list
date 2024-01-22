@@ -49,5 +49,3 @@ detail.tmall.com
 @@||doh.dns.sb^$important
 @@||dns-family.adguard.com^$important
 @@||aliyundrive.com^$important
-#局域网放行
-192.168.0.0/16
