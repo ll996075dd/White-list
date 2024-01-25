@@ -1,6 +1,8 @@
 #固定域名放行
 detail.tmall.com
 #域名放行
+* 192.168.0.0/16
+@@||laowang.vip^$important
 @@||bilivideo.com^$important
 @@||bilivideo.com^$important
 @@||yunyun.icu^$important
