@@ -55,3 +55,4 @@ detail.tmall.com
 @@||dns-family.adguard.com^$important
 @@||aliyundrive.com^$important
 @@||mp.weixin.qq.com^$important
+@@||mihoyo.com^$important
