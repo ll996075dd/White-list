@@ -60,3 +60,4 @@ detail.tmall.com
 @@||dataflow.biliapi.com^important
 @@||mcdn.bilivideo.cn^important
 @@||*.todesk.com^important
+@@||cibntv.net^$important
