@@ -11,7 +11,7 @@ detail.tmall.com
 @@||yunyun.icu^$important
 @@||yunyun.ltd^$important
 @@||mum.alibabachengdun.net^$important
-@@||chat.bilibili.com^$important
+@@||*.chat.bilibili.com^$important
 @@||githubusercontent.com^important
 @@||tencentcs.com^important
 @@||tencentcs.com^$important
