@@ -56,3 +56,4 @@ detail.tmall.com
 @@||aliyundrive.com^$important
 @@||mp.weixin.qq.com^$important
 @@||mihoyo.com^$important
+@@||api.pjnoeru.top^important
