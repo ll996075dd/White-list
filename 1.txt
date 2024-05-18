@@ -59,3 +59,4 @@ detail.tmall.com
 @@||api.pjnoeru.top^important
 @@||dataflow.biliapi.com^important
 @@||mcdn.bilivideo.cn^important
+@@||*.todesk.com^important
