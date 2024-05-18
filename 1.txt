@@ -58,4 +58,4 @@ detail.tmall.com
 @@||mihoyo.com^$important
 @@||api.pjnoeru.top^important
 @@||dataflow.biliapi.com^important
-@@||mcdn.bilivideo.com^important
+@@||mcdn.bilivideo.cn^important
