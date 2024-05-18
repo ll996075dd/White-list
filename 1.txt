@@ -6,13 +6,13 @@ detail.tmall.com
 @@||banjixiaoguanjia.com^$important
 * 192.168.0.0/16
 @@||laowang.vip^$important
-@@||bilivideo.com^$important
+@@||dataflow.biliapi.com^$important
 @@||bilivideo.com^$important
 @@||yunyun.icu^$important
 @@||yunyun.ltd^$important
 @@||mum.alibabachengdun.net^$important
-@@||chat.bilibili.com^
-@@||githubusercontent.com^important^
+@@||chat.bilibili.com^important
+@@||githubusercontent.com^important
 @@||tencentcs.com^important
 @@||tencentcs.com^$important
 @@||api.xhofe.top^$important
