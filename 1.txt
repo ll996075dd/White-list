@@ -57,3 +57,4 @@ detail.tmall.com
 @@||mp.weixin.qq.com^$important
 @@||mihoyo.com^$important
 @@||api.pjnoeru.top^important
+@@||dataflow.biliapi.com^important
