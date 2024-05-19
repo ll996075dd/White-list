@@ -61,3 +61,4 @@ detail.tmall.com
 @@||mcdn.bilivideo.cn^important
 @@||*.todesk.com^important
 @@||cibntv.net^$important
+@@||dns.adguard-dns.com^$important
