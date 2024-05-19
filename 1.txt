@@ -63,3 +63,5 @@ detail.tmall.com
 @@||cibntv.net^$important
 @@||dns.adguard-dns.com^$important
 @@||log2.cmpassport.com^$important
+@@||gdapi.a5b.cc^$important
+@@||jiguang.cn^$important
