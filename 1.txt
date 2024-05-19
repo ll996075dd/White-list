@@ -62,3 +62,4 @@ detail.tmall.com
 @@||*.todesk.com^important
 @@||cibntv.net^$important
 @@||dns.adguard-dns.com^$important
+@@||log2.cmpassport.com^$important
