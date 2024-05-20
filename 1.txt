@@ -65,3 +65,6 @@ detail.tmall.com
 @@||log2.cmpassport.com^$important
 @@||gdapi.a5b.cc^$important
 @@||jiguang.cn^$important
+@@||habo.qq.com^$important
+@@||pc.woozooo.com^$important
+@@||om^^$important
