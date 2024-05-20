@@ -68,3 +68,4 @@ detail.tmall.com
 @@||habo.qq.com^$important
 @@||pc.woozooo.com^$important
 @@||om^^$important
+@@||om^$important
