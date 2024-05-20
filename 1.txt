@@ -14,7 +14,6 @@ detail.tmall.com
 @@||*.chat.bilibili.com^$important
 @@||githubusercontent.com^important
 @@||tencentcs.com^important
-@@||tencentcs.com^$important
 @@||api.xhofe.top^$important
 @@||aliyun.com^$important
 @@||downloaddispatch.itunes.apple.com^$important
