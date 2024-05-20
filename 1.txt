@@ -66,3 +66,4 @@ detail.tmall.com
 @@||jiguang.cn^$important
 @@||habo.qq.com^$important
 @@||pc.woozooo.com^$important
+@@||hkrpg-log-upload.mihoyo.com^
