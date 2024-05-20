@@ -67,5 +67,3 @@ detail.tmall.com
 @@||jiguang.cn^$important
 @@||habo.qq.com^$important
 @@||pc.woozooo.com^$important
-@@||om^^$important
-@@||om^$important
