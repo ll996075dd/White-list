@@ -69,4 +69,4 @@ detail.tmall.com
 @@||hkrpg-log-upload.mihoyo.com^
 @@||configsvr.msf.3g.qq.com^$important
 @@||p*-webcast-sign.douyinpic.com^$important
-@@||om^$important
+@@||album.biliimg.com^$important
