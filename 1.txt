@@ -70,3 +70,5 @@ detail.tmall.com
 @@||configsvr.msf.3g.qq.com^$important
 @@||p*-webcast-sign.douyinpic.com^$important
 @@||album.biliimg.com^$important
+@@||omarea.com^$important
+@@||szextshort.weixin.qq.com/mmtls^$important
