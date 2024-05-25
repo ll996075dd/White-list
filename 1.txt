@@ -1,5 +1,6 @@
 #固定域名放行
 detail.tmall.com
+com^
 #域名放行
 @@||wocnode.com^$important
 @@||www.duokan.com^$important
