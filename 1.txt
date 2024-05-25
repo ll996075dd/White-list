@@ -1,6 +1,9 @@
 #固定域名放行
 detail.tmall.com
+
 #域名放行
+@@||account.xiaomi.com^$important
+@@||miwifi.com^
 @@||wocnode.com^$important
 @@||www.duokan.com^$important
 @@||banjixiaoguanjia.com^$important
