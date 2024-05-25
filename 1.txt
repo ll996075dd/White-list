@@ -77,3 +77,5 @@ detail.tmall.com
 @@||qwhdcdn.cmcc-cs.cn^$important
 @@||ha-cmim.cmcc-cs.cn^$important
 @@||uem.migu.cn^$important
+@@||fourier.taobao.com^
+@@||cbu01.alicdn.com/img^$app=com.alibaba.wireless,important
