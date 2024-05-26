@@ -1,3 +1,9 @@
+[个人规则 1.0]
+! Title: 个人去广告规则白名单
+! Homepage:https://raw.githubusercontent.com/ll996075dd/Blacklist
+! Expires: 24 Hours
+! Version: 2024-05-26 09:09:54（北京时间）
+! Description: 适用于AdGuard的去广告规则白名单
 #固定域名放行
 detail.tmall.com
 
