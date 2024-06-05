@@ -7,7 +7,10 @@
 #固定域名放行
 detail.tmall.com
 
+
 #域名放行
+@@||stars.shuqireader.com/kkan/render/render/page/bookstore$important
+@@||stars.shuqireader.com/kkan/interact/api/v1/comment/list$important
 @@||account.xiaomi.com^$important
 @@||miwifi.com^
 @@||wocnode.com^$important
