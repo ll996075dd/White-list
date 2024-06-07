@@ -21,6 +21,7 @@ detail.tmall.com
 @@||dataflow.biliapi.com^$important
 @@||bilivideo.com^$important
 @@||yunyun.icu^$important
+@@||luxiang.icu^$important
 @@||yunyun.ltd^$important
 @@||mum.alibabachengdun.net^$important
 @@||*.chat.bilibili.com^$important
