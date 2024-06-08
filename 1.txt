@@ -6,6 +6,8 @@
 ! Description: 适用于AdGuard的去广告规则白名单
 #固定域名放行
 detail.tmall.com
+api.raylink.live
+ws.raylink.live
 
 
 #域名放行
@@ -13,6 +15,7 @@ detail.tmall.com
 @@||stars.shuqireader.com/kkan/interact/api/v1/comment/list$important
 @@||account.xiaomi.com^$important
 @@||miwifi.com^
+@@||news.cctv.com$important
 @@||wocnode.com^$important
 @@||www.duokan.com^$important
 @@||banjixiaoguanjia.com^$important
