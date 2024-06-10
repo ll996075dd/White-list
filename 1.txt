@@ -13,6 +13,7 @@ ws.raylink.live
 #域名放行
 @@||stars.shuqireader.com/kkan/render/render/page/bookstore$important
 @@||stars.shuqireader.com/kkan/interact/api/v1/comment/list$important
+@@||mp3m.ysxs.top
 @@||account.xiaomi.com^$important
 @@||miwifi.com^
 @@||news.cctv.com$important
