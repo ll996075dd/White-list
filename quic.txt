@@ -1,3 +1,14 @@
 com.tencent.mm
 com.unionpay
 com.chinatelecom.bestpayclient
+com.eg.android.AlipayGphone
+com.jd.jrapp
+com.android.bankabc
+com.chinamworld.main
+com.icbc
+com.ymbank.mbank.app
+com.yitong.mbank.psbc
+cn.gov.pbc.dcep
+com.bankcomm.Bankcomm
+com.fenqile.fenqile
+com.mybank.android.phone
