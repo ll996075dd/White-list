@@ -1,5 +1,9 @@
 com.tencent.mm
 com.unionpay
+com.miHoYo.hkrpg
+com.miHoYo.cloudgames.ys
+com.miHoYo.Yuanshen
+com.miHoYo.cloudgames.hkrpg
 com.chinatelecom.bestpayclient
 com.eg.android.AlipayGphone
 com.jd.jrapp
