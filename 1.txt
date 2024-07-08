@@ -8,6 +8,7 @@
 detail.tmall.com
 api.raylink.live
 ws.raylink.live
+czzy.top
 
 
 #域名放行
