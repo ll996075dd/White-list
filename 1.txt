@@ -13,6 +13,7 @@ player.200877926.top
 duanjuku.top
 czzy.top
 #域名放行
+@@||live-trace.bilibili.com/xlive
 @@||stars.shuqireader.com/kkan/render/render/page/bookstore$important
 @@||stars.shuqireader.com/kkan/interact/api/v1/comment/list$important
 @@||mp3m.ysxs.top
