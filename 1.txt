@@ -13,6 +13,7 @@ player.200877926.top
 duanjuku.top
 czzy.top
 #域名放行
+@@||bkvv.video.qq.com^
 @@||page-acc.video.qq.com^
 @@||kesuen.tao88aj.top^$important
 @@||live-trace.bilibili.com/xlive
