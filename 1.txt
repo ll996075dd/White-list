@@ -13,6 +13,8 @@ player.200877926.top
 duanjuku.top
 czzy.top
 #域名放行
+@@||drive.uc.cn
+@@||g.alicdn.com
 @@||bkvv.video.qq.com^
 @@||page-acc.video.qq.com^
 @@||kesuen.tao88aj.top^$important
