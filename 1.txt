@@ -5,6 +5,8 @@
 ! Version: 2024-05-26 09:09:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则白名单
 #固定域名放行
+service-9wjjjdsa-1251249846.gz.apigw.tencentcs.com
+firemovie.yunshihy.top
 detail.tmall.com
 api.raylink.live
 ws.raylink.live
@@ -13,6 +15,7 @@ player.200877926.top
 duanjuku.top
 czzy.top
 #域名放行
+@@||kafka.top^$important
 @@||tv.puui.qpic.cn^$important
 @@||ts.91by.top^$important
 @@||drive.uc.cn
