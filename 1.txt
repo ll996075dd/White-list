@@ -102,7 +102,6 @@ czzy.top
 @@||p*-webcast-sign.douyinpic.com^$important
 @@||album.biliimg.com^$important
 @@||omarea.com^$important
-@@||szextshort.weixin.qq.com/mmtls^$important
 @@||crystalapp.miguvideo.com^$important
 @@||sensorsdata.cmcc-cs.cn^$important
 @@||qwhdcdn.cmcc-cs.cn^$important
