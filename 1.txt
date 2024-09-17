@@ -15,6 +15,12 @@ player.200877926.top
 duanjuku.top
 czzy.top
 #域名放行
+@@||pbaccess.video.qq.com^
+@@||film.video.qq.com^
+@@||vv.video.qq.com^
+@@||vcover-vt-pic.puui.qpic.cn^
+@@||a.video.qq.com^
+@@||rdelivery.qq.com^
 @@||*.club^
 @@||*.top^
 @@||kafka.top^$important
