@@ -29,7 +29,6 @@ czzy.top
 @@||drive.uc.cn
 @@||g.alicdn.com
 @@||page-acc.video.qq.com^
-@@||kesuen.tao88aj.top^$important
 @@||live-trace.bilibili.com/xlive
 @@||stars.shuqireader.com/kkan/render/render/page/bookstore$important
 @@||stars.shuqireader.com/kkan/interact/api/v1/comment/list$important
@@ -40,7 +39,6 @@ czzy.top
 @@||wocnode.com^$important
 @@||www.duokan.com^$important
 @@||banjixiaoguanjia.com^$important
-* 192.168.0.0/16
 @@||laowang.vip^$important
 @@||dataflow.biliapi.com^$important
 @@||bilivideo.com^$important
